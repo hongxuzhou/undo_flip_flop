@@ -1,4 +1,10 @@
 # To-Do List: Polish Workpackages for Submitting to BlackboxNLP 2026. 
+- [To-Do List: Polish Workpackages for Submitting to BlackboxNLP 2026.](#to-do-list-polish-workpackages-for-submitting-to-blackboxnlp-2026)
+  - [Step 0: Grounding the task](#step-0-grounding-the-task)
+  - [Step 1: Must do](#step-1-must-do)
+  - [Step 2: Ought to do](#step-2-ought-to-do)
+  - [Step 3: Necessary but easy](#step-3-necessary-but-easy)
+  - [Step 4: If time and recourse allow](#step-4-if-time-and-recourse-allow)
 
 ## Step 0: Grounding the task 
 The [BlackboxNLP 2026] (https://blackboxnlp.github.io/2026/) is co-located with EMNLP 2026 in Budapest, Hungary on October 28th, 2026. 
